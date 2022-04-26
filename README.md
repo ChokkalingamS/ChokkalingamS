@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chokkalingam.S</h1>
-<h3 align="center">A Full Stack Developer who specializes in Javascript technologies across the whole MERN stack. Having knowledge on building complete web applications with backend API Systems.</h3>
+<h3 align="left">A Full Stack Developer who specializes in Javascript technologies across the whole MERN stack. Having knowledge on building complete web applications with backend API Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chokkalingams&label=Profile%20views&color=0e75b6&style=flat" alt="chokkalingams" /> </p>
 

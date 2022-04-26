@@ -20,6 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chokkalingams&show_icons=true&locale=en&layout=compact" alt="chokkalingams" /></p>
 <br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chokkalingams&show_icons=true&locale=en" alt="chokkalingams" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chokkalingams&" alt="chokkalingams" /></p>
